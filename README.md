@@ -1,2 +1,1 @@
-# Codsoft-T2
-Laanding Page
+This repository includes html, css and javascript files which creates a landing page website. This is a landing page for vegetable selling website which displays home section, varieties of vegetables, video on benefits of eating vegetables, and a contact me section.
